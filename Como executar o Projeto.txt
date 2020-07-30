@@ -1,0 +1,56 @@
+# COMO EXECUTAR O PROJETO
+
+## Instalação e downloads necessários:
+1. Python 3
+2. VSCode Com extensão do Robot
+3. Console Emulator
+4. ChromeDriver.exe no PATh do computador.
+
+## Passo a passo para a execução:
+
+1. Abrir o Projeto;
+2. Executar o Console Emulator e mapear o caminho do projeto (ex: cd C:\BLU\importacao);
+3. No console Copiar e colar o seguinte comando de instalação do Selenium Library: pip install --upgrade robotframework-seleniumlibrary
+4. Executar o projeto no console digitando: robot -d ./logs tests\
+
+
+## Relatório da execução dos testes:
+1. Acessar a Pasta "target"
+2. Acessar a Pasta "report-html"
+3. Abrir o arquivo "index.html"
+
+## Reporte de defeitos
+Link:Pasta "logs" do Projeto -> C:\BLU\importacao\logs
+
+-> O relatório é gerado dentro da pasta do projeto, os nomes dos relatórios "report.html" e "log.html".
+-> Screenshot dentro das Keyword (dentro de report.html)
+
+--------------------
+
+# COMO EXECUTAR O PROJETO
+
+## Instalação e downloads necessários:
+1. Python 3
+2. VSCode Com extensão do Robot
+3. Console Emulator
+4. ChromeDriver.exe no PATh do computador.
+
+## Passo a passo para a execução:
+1. Abrir o Projeto;
+2. Executar o Console Emulator e mapear o caminho do projeto (ex: cd C:\BLU\importacao);
+3. No console Copiar e colar o seguinte comando de instalação do Selenium Library: pip install --upgrade robotframework-seleniumlibrary
+4. Executar o projeto no console digitando: robot -d ./logs tests\
+
+## Relatório da execução dos testes:
+1. Acessar a Pasta "target"
+2. Acessar a Pasta "report-html"
+3. Abrir o arquivo "index.html"
+
+## Reporte de defeitos
+Link:Pasta "logs" do Projeto -> C:\BLU\importacao\logs
+
+-> O relatório é gerado dentro da pasta do projeto, os nomes dos relatórios "report.html" e "log.html".
+-> Screenshot dentro das Keyword (dentro de report.html)
+~
+
+
